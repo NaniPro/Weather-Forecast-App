@@ -1,0 +1,22 @@
+#pick{
+    position: absolute;
+    left: 50%;
+    top: 25%;
+    transform: translate(-50%,-25%);
+}
+
+.bgRed{
+    background-color: red;
+}
+
+.bgBlue{
+    background-color: blue;
+}
+
+.bgPinkish{
+    background-color: palevioletred;
+}
+
+.bgPink{
+    background-color: pink;
+}
